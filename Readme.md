@@ -2,8 +2,8 @@
 
 ## Project Overview 
 
-**Project Title**: E-commerce Company analysis
-**Level**: Intermediate
+**Project Title**: E-commerce Company analysis                                                                 
+**Level**: Intermediate                                                                                 
 **DataBase**: `e-commerce_analysis`
 
 This project showcases SQL skills commonly used by data analysts to explore, clean, and analyze E-commerce data. It involves creating an e-commerce_analysis database, performing exploratory data analysis (EDA), and answering key business questions using SQL queries. This project is perfect for Intermediate who want to build a strong foundation in SQL and data analysis.
@@ -258,5 +258,6 @@ Boost revenue by promoting top products and rewarding loyal customers.
 Optimize inventory and marketing strategy.
 
 ## Author – Deepanshu Dahiya
+
 
 This project is part of my portfolio, shows SQL skills for analyzing E-commerce data. It includes queries to identify top customers, repeat buyers, best-selling and slow-selling products, sales trends, and inventory status. These analyses showcase practical techniques used by data analysts to drive business insights and decisions.
