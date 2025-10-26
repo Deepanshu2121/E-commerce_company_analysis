@@ -41,7 +41,11 @@ Purpose: Helps avoid running out of popular items or wasting money on slow items
 ### 1. Database Setup
 
 - ** Database Creation **: The project starts by creating a database named `e-commerce_analysis`
-- ** Table Importing **: The table names `customers`, `orderdetails`, `orders`, and `products`.
+- ** Table Importing **: The table names `customers`, `orderdetails`, `orders`, and `products`
+- Customers Dataset: customer_id, name, and location
+· Products Dataset: product_id, name, category, and price.
+. Orders Dataset: order_id, order_date, customer_id, and total_amount.
+· OrderDetails Dataset: order_id, product_id, quantity, and price_per_unit.
 
 ## What you actually do with SQL
 - Extract data from the tables (Customers, Products, Orders, OrderDetails).
@@ -261,3 +265,4 @@ Optimize inventory and marketing strategy.
 
 
 This project is part of my portfolio, shows SQL skills for analyzing E-commerce data. It includes queries to identify top customers, repeat buyers, best-selling and slow-selling products, sales trends, and inventory status. These analyses showcase practical techniques used by data analysts to drive business insights and decisions.
+
